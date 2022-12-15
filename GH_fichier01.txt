@@ -1,0 +1,2 @@
+fichier 01 pr test 01
+entrez vos noms et prenoms ainsi que la date et l'heure
